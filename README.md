@@ -1,2 +1,2 @@
 ## Hi There
-This is my Github profile repo. 
+**This is my Github profile repo. 
